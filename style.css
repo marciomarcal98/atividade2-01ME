@@ -1,0 +1,19 @@
+header a {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+}
+
+section div {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+}
+
+div,
+a,
+span,
+footer {
+    border: 2px solid black;
+}
